@@ -1,5 +1,7 @@
 # mevnexample
 
+Projeto para estudo Componentes Vue.js
+
 ## Project setup
 ```
 npm install
